@@ -129,7 +129,7 @@
 
   /* ---------- overlay ---------- */
 
-  let overlay, stage, counter, tray, panel;
+  let overlay, stage, counter, tray, panel, chip;
 
   function buildOverlay() {
     if (overlay) return;

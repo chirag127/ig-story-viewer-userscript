@@ -30,6 +30,7 @@ the concepts below.
 | `yt-hotkey-dislike-userscript` | scripts/yt-hotkey-dislike-userscript.md | Key `d`, v1.0.4 |
 | `yt-hotkey-next-userscript` | scripts/yt-hotkey-next-userscript.md | Key `n`, v1.0.4 |
 | `yt-hotkey-prev-userscript` | scripts/yt-hotkey-prev-userscript.md | Key `p`, v1.0.4 |
+| `yt-hotkeys-userscript` | scripts/yt-hotkeys-userscript.md | Six rebindable keys, v1.0.0 |
 | `yt-multiselect-userscript` | scripts/yt-multiselect-userscript.md | InnerTube API, v2.3.0 |
 | `greasyfork-plus-userscript` | scripts/greasyfork-plus-userscript.md | Read-only enhancer, v1.0.0 |
 | `tiktok-compression-bypass-userscript` | scripts/tiktok-compression-bypass-userscript.md | Highest-bitrate swap, v1.0.0 |
