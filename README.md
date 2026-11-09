@@ -43,7 +43,7 @@ Read-only against stories. The optional **mark seen** ping writes a view to your
 
 ## 🧠 Docs
 
-Endpoint notes, rules and test steps: [AGENTS.md](AGENTS.md). Knowledge bundle: [okf/index.md](okf/index.md).
+Endpoint notes, rules and test steps: [AGENTS.md](AGENTS.md). Knowledge bundle: [okf/index.md](../../../../../docs/okf/index.md).
 
 ## 📄 License
 
