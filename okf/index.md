@@ -54,10 +54,12 @@ the concepts below.
 | `x-thread-export-userscript` | scripts/x-thread-export-userscript.md | Export a whole X thread as Markdown and JSON - author, text, time and media URLs. |
 | `x-media-harvest-userscript` | scripts/x-media-harvest-userscript.md | Collect deduped image and video URLs from an X profile, thread or search, then export a list and manifest. |
 | `gh-bulk-unfollow-userscript` | scripts/gh-bulk-unfollow-userscript.md | Review everyone you follow on GitHub, then unfollow in bulk with a cap and whitelist. |
+| `metered-paywall-reset-userscript` | scripts/metered-paywall-reset-userscript.md | JSON-LD `articleBody` / AMP / archive reader + meter reset, v1.0.0 |
+| `coupon-stack-userscript` | scripts/coupon-stack-userscript.md | Promo/coupon/referral autofill + capped sweep + pair stacking, gray new-customer codes, v1.0.0 |
+| `region-select-userscript` | scripts/region-select-userscript.md | Client-trust region cookie override + IP-lock "you need a proxy" notice, dry-run → apply → reset, v1.0.0 |
 
 ## Supporting repos
 
 | Repo | Role |
 |------|------|
-| `youtube-hotkeys-userscripts` | Human-facing hub for the four hotkeys |
 | `userscript-install-guide` | The single source of install instructions |
